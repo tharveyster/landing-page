@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    color: white;
+    font-family: verdana, arial, tahoma, sans-serif;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+}
+
+.image-section {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    margin: 0 auto;
+}
+
+#name, #email {
+    display: block;
+}
+
+footer {
+    text-align: center;
+
+}
